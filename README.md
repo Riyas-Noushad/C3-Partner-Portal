@@ -1,5 +1,5 @@
 # C3 Partner Portal
-
+<!-- TOC -->
 ##Welcome View
 
 ##Plan Management
@@ -196,3 +196,4 @@
 ##Analytics
 
 ##Support
+<!-- TOC -->
