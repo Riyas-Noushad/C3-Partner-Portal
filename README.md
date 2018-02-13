@@ -2,6 +2,6 @@
 
 <!-- TOC -->  
 
-* [Welcome View]()    
+* [Welcome View](/docs/Welcome-View.md)    
 
 <!-- TOC -->
