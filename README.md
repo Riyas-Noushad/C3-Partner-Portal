@@ -1,6 +1,8 @@
-# C3 Partner Portal
-<!-- TOC -->
-##Welcome View
+# C3 Partner Portal  
+
+<!-- TOC -->  
+
+* [Welcome View]  
 
 ##Plan Management
 
