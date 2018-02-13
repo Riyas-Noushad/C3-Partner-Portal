@@ -2,6 +2,8 @@
 
 <!-- TOC -->  
 
-* [Welcome View](/docs/Welcome-View.md)    
+* [Welcome View](/docs/Welcome-View.md)   
+
+* [Plan Management](/docs/Plan-Management.md)
 
 <!-- TOC -->
