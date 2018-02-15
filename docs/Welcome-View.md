@@ -4,6 +4,8 @@
 <img src="/images/Welcome-View.png">  
 
 * C3 supporting multiple languages.The current available languages are English(en-US),Spanish(es) and Taiwanese(tw). You can select any of them(The default one is English).  
+<img src="/images/SupportedLanguages.png">  
+
 
 
 
