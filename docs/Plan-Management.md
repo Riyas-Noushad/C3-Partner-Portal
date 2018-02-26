@@ -24,7 +24,13 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 <img src="/images/Add-new-plan-2.png">  
 
 #### Microsoft Offers
+In every month Microsoft is updating their offer list by adding new offers or updating the price/names of existing offers. Our C3 team will load the latest offers for you in every month so that your customers can purchase the new offers. In the above screenshot you can see the list of offers that microsoft provided. search option also availble.  
 
+#### Private Plan
+* while you creating a plan you can see the checkbox **Is Private**.  
+* If you not check this option while creating a plan It will be non private plan  that means it will not appear in the welcome view of the C3 portal.  
+*  If you checked the box then you will see the plan in the welcome view.  
+*  From here your customers able to see the plan details and your customers can signup to the C3 portal.  
 
 
 
