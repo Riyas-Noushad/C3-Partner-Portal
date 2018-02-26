@@ -32,7 +32,7 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 * while you creating a plan you can see the checkbox **Is Private**.  
 * If you not check this option while creating a plan It will be non private plan  that means it will not appear in the welcome view of the C3 portal.  
 *  If you checked the box then you will see the plan in the welcome view.  
-*  From here your customers able to see the plan details and your customers can signup to the C3 portal.  
+*  From here your customers are able to see the plan details and your customers can signup to the C3 portal.  
 
 
 
