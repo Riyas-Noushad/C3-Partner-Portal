@@ -19,7 +19,7 @@
   
   <img src="/images/Logged-in-view.png">  
     
- * You can change the Contoso logo with your company logo 
+ * You can change the Contoso logo with your own company logo 
 
 
 
