@@ -8,6 +8,7 @@
 * [Add new plan](/docs/Plan-Management.md#add-new-plan)  
     * [Microsoft Offers](/docs/Plan-Management.md#microsoft-offers)  
     * [Private Plan](/docs/Plan-Management.md#private-plan)  
+    * [Add a Plan](/docs/Plan-Management.md#add-plan)  
     
 <!-- TOC -->  
 ### Plans  
@@ -38,6 +39,9 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 
 * Non-private plans are visible on welcome view. Customers can see the plan details by clicking on plan name and signup to the C3 portal without login as well. We will explain Signup process in the customer management section.   
 <img src="/images/Plan-rendering.png">  
+
+#### Add a Plan  
+
 
 
 
