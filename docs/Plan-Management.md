@@ -3,8 +3,8 @@
 <!-- TOC -->
 
 * [Add new plan](/docs/Plan-Management.md#add-new-plan)  
-  * [Shareable plan](/docs/Plan-Management.md#shareable-plan)  
   * [Non Shareable plan](/docs/Plan-Management.md#shareable-plan)  
+  * [Shareable plan](/docs/Plan-Management.md#shareable-plan)  
 <!-- TOC -->  
 ### Plans
 
