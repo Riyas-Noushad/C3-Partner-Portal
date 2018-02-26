@@ -13,7 +13,8 @@
 * C3 is supporting multiple languages. The current available languages are English(en-US), Spanish(es) and Taiwanese(tw). You can select any of them(The default one is English).  
 <img src="/images/SupportedLanguages.png">  
 
-* To login to the C3 portal, click on the Login button on the top right hand side of the welcome view.
+* To login to the C3 portal, click on the Login button on the top right hand side of the welcome view.  
+* You will be prompted to give your Microsoft work or school account credentials to access C3.  
 
 
 
