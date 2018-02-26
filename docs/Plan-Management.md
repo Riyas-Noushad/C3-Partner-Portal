@@ -6,6 +6,7 @@
 * [Non Shareable plan](/docs/Plan-Management.md#non-shareable-plan)  
 * [Shareable plan](/docs/Plan-Management.md#shareable-plan)  
 * [Add new plan](/docs/Plan-Management.md#add-new-plan)  
+    * [Microsoft Offers](/docs/Plan-Management.md#microsoft-offers)  
 <!-- TOC -->  
 ### Plans  
 Plan is nothing but group of offers. These offers can either be Microsoft provided or your custom offers. You must have a plan in order to add or onboard a customer. Also, you can bundle your custom offers with Microsoft provided ones & sell on your own prices.  
@@ -22,7 +23,7 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 * Click on **Add New Plan** button to add a new plan as per your requirement. It will redirect you to the following page.  
 <img src="/images/Add-new-plan-2.png">  
 
-#### Private Plan  
+#### Microsoft Offers
 
 
 
