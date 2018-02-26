@@ -19,7 +19,10 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 * Click on **Plans** to see the list of plans available.  
 <img src="/images/Addnew-Plan.png">  
 
-* Click on **Add New Plan** button to add a new plan as per your requirement.It will redirect you to the following page.   
+* Click on **Add New Plan** button to add a new plan as per your requirement.It will redirect you to the following page.  
+<img src="/images/Add-new-plan-2.png">  
+
+
 
 
 
