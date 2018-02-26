@@ -33,7 +33,7 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 
 #### Private Plan
 * When you create a plan, you will see the checkbox **Is Private**.  
-* If you check the box then it is the Private plan and you will not see the plan in the welcome view.  
+* If you check the box then, it is going to be a Private plan and you will not see it in the welcome view.  
 * If you want the plan to be visible at welcome view for customer, you should not check this option while creating a plan.   
 <img src="/images/Private-plans.png">   
 
