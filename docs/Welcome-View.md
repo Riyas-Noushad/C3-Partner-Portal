@@ -18,6 +18,8 @@
 * After loggedin you are able to see the menu items and you can perform various actions in the Portal.  
   
   <img src="/images/Logged-in-view.png">  
+    
+ * You can change the logo with your company logo 
 
 
 
