@@ -9,7 +9,7 @@
    * You can replace Contoso with your company name on left bottom corner. 
    
    <img src="/images/Welcome-customize.png">  
-   
+     
 * C3 is supporting multiple languages. The current available languages are English(en-US), Spanish(es) and Taiwanese(tw). You can select any of them(The default one is English).  
 <img src="/images/SupportedLanguages.png">  
 
