@@ -15,6 +15,11 @@
 
 * To login to the C3 portal, click on the Login button on the top right hand side of the welcome view.  
 * You will be prompted to give your Microsoft work or school account credentials to access C3.  
+* After loggedin you are able to see the menu items and you can perform various actions in the Portal.  
+  
+  <img src="/images/Welcome-view.png">  
+
+
 
 
 
