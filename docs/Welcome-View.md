@@ -4,7 +4,6 @@
 <img src="/images/Welcome-view.png">  
 
 * There are some customizable items on welcome view which you can use to customize the welcome view for your C3 portal. These are as follows:  
-
    * You can replace the Contoso logo with your complany logo on left top corner.  
    * We can change by default Contact page with your company Contact page if available.  
    * You can replace Contoso with your company name on left bottom corner. 
