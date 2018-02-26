@@ -26,17 +26,17 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 <img src="/images/Add-new-plan-2.png">  
 
 #### Microsoft Offers
-* In every month Microsoft is updating their offer list by adding new offers or updating the price/names of existing offers.  
-* Our C3 team will load the latest offers for you in every month so that your customers can purchase the new offers.  
-* In the above screenshot you can see the list of offers that microsoft provided. search option also availble.    
+* Microsoft updates their offer list by adding new offers or updating the price/names of existing offers every month.  
+* Our C3 team load the latest offers for you every month so that your customers can avail the new offers.  
+* In the screenshot above, you can see the list of Microsoft provided offers. Search option is also availble for better navigation.    
 
 #### Private Plan
-* while you creating a plan you can see the checkbox **Is Private**.  
-* If you not check this option while creating a plan It will be non private plan  that means it will not appear in the welcome view of the C3 portal.  
-*  If you checked the box then it is the Private plan and you will see the plan in the welcome view.  
-<img src="/images/Private-plans.png">  
+* When you create a plan, you will see the checkbox **Is Private**.  
+* If you check the box then it is the Private plan and you will not see the plan in the welcome view.  
+* If you want the plan to be visible at welcome view for customer, you should not check this option while creating a plan.   
+<img src="/images/Private-plans.png">   
 
-*  From here your customers are able to see the plan details and your customers can signup to the C3 portal without login. Signup part will explain in the customer management section.   
+* Non-private plans are visible on welcome view. Customers can see the plan details by clicking on plan name and signup to the C3 portal without login as well. We will explain Signup process in the customer management section.   
 <img src="/images/Plan-rendering.png">  
 
 
