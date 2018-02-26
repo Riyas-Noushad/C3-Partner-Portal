@@ -16,4 +16,7 @@ Non shareable plan is a simple plan, in which you can't share the offers between
 If you purchase any offer from a shareable plan it will create a new subscription. But in case, if you already have that subscription it will just increase the number of quantity of subscribed offer. It gives you flexiblity to share the offers between  normal offers and composite ones. It is recommended to use Shareable plan if you need a composite offer inside a plan.
 ### Add new plan  
 * In logged in view you can find the menu item Plans.
-* 
+* While clicking on Plans you will be able to see the list of plans.  
+* By clicking on "Add New Plan" button you will be redirected to the view, from there you can add the new plan.  
+
+
