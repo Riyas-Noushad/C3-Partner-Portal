@@ -8,7 +8,7 @@
 * [Add new plan](/docs/Plan-Management.md#add-new-plan)  
 <!-- TOC -->  
 ### Plans  
-Plan is nothing but group of offers. These offers can either be Microsoft provided or your custom d offers. You must have a plan in order to add or onboard a customer. Also, you can bundle your custom offers with Microsoft provided offers & sell with suitable prices.  
+Plan is nothing but group of offers. These offers can either be Microsoft provided or your custom offers. You must have a plan in order to add or onboard a customer. Also, you can bundle your custom offers with Microsoft provided ones & sell on your own prices.  
 
 ### Non Shareable plan  
 
