@@ -36,7 +36,7 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 *  If you checked the box then it is the Private plan and you will see the plan in the welcome view.  
 <img src="/images/Private-plans.png">  
 
-*  From here your customers are able to see the plan details and your customers can signup to the C3 portal without login.  
+*  From here your customers are able to see the plan details and your customers can signup to the C3 portal without login. Signup part will explain in the customer management section.   
 <img src="/images/Plan-rendering.png">  
 
 
