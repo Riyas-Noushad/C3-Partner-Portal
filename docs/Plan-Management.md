@@ -11,7 +11,7 @@
 Plan is nothing but group of offers. These offers can either be Microsoft provided or your custom offers. You must have a plan in order to add or onboard a customer. Also, you can bundle your custom offers with Microsoft provided ones & sell on your own prices.  
 
 ### Non Shareable plan  
-Non shareable plan is nothing but a simple plan, here you can't share the offers between normal offers and composite offers(You can find more about composite offers ).If you purchase any subscriptions from this plan it will create a new subscription in Partner Center.
+Non shareable plan is nothing but a simple plan, here you can't share the offers between normal offers(can be either MS provided or your custom made offer) and composite offers(You can find more about composite offers ).If you purchase any offer from this plan it will create a new subscription in Partner Center.
 ### Shareable plan  
 
 ### Add new plan  
