@@ -27,7 +27,7 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 
 #### Microsoft Offers
 * Microsoft updates their offer list by adding new offers or updating the price/names of existing offers every month.  
-* Our C3 team load the latest offers for you every month so that your customers can avail the new offers.  
+* Our C3 team also loads the latest offers for you every month so that your customers can avail the new offers.  
 * In the screenshot above, you can see the list of Microsoft provided offers. Search option is also availble for better navigation.    
 
 #### Private Plan
