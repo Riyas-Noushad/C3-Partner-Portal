@@ -18,5 +18,7 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 * In logged in view you can find the menu item Plans.
 * While clicking on Plans you will be able to see the list of plans.  
 * By clicking on "Add New Plan" button you will be redirected to the view, from there you can add the new plan.  
+<img src="/images/Addnew-Plan.png">  
+
 
 
