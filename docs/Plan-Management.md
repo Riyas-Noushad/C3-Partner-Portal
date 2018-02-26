@@ -5,7 +5,7 @@
 * [Add new plan](/docs/Plan-Management.md#add-new-plan)  
   * [Shareable plan](/docs/Plan-Management.md#shareable-plan)  
 <!-- TOC -->  
-## Plans
+### Plans
 
 ### Shareable plan  
 
