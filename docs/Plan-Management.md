@@ -8,7 +8,7 @@
 * [Add new plan](/docs/Plan-Management.md#add-new-plan)  
 <!-- TOC -->  
 ### Plans  
-Plan is nothing but group of offers. These offers can either be Microsoft provided or your custom provided offers. For adding or onboarding a customer into C3 Portal you must need a plan.  
+Plan is nothing but group of offers. These offers can either be Microsoft provided or your custom provided offers. For adding or onboarding a customer into C3 Portal you must need a plan. Also you can bundle your custom offers with Microsoft provided offers and you can sell with suitable prices.  
 
 ### Non Shareable plan  
 
