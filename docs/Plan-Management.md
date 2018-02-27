@@ -44,6 +44,7 @@ If you purchase any offer from a shareable plan it will create a new subscriptio
 You can add a plan by filling out the details in the add plan section. You can also select the offers from the available list and set the sale price of your own choice.  
 <img src="/images/Addplan-3.png">  
 
+Plan
 
 
 
